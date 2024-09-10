@@ -1,10 +1,10 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=00FF8B&background=000000&center=true&vCenter=true&width=900&lines=Welcome;Hello" alt="Typing SVG" /></a>
 
 <a href="https://github.com/Pear1yCode/github-readme-stats">
-  <img width=400 height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Pear1yCode" />
+  <img width=350 height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Pear1yCode" />
 </a>
 <a href="https://github.com/Pear1yCode/convoychat">
-  <img width=400 height=200 align="cight" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pear1yCode&layout=compact&langs_count=8&card_width=320" />
+  <img width=350 height=200 align="cight" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pear1yCode&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 <hr/>
