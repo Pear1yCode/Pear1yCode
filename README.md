@@ -4,7 +4,7 @@
 <br><br><br><br><br><br><br>
 <hr>
 
-<h2>✔ Tech Stack</h2><br/>
+<h2>✔ Tech Stack</h2>
   
 > <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html&logoColor=white">
 > <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
@@ -17,7 +17,7 @@
 >![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 >![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-<h2>✈ Contact</h2> <br/>
+<h2>✈ Contact</h2>
 
 ><a href="https://google.com" target="_self"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 ><a href="https://cofgame.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"></a>
@@ -25,7 +25,7 @@
 >[![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://pearlystars.blogspot.com)
 
 
-<h2> 🌎 Group</h2> <br/>
+<h2> 🌎 Group</h2>
 
 >![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 >![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
