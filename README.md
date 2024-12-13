@@ -33,6 +33,7 @@
 >![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 >![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
+<h2> ⭐ Tools</h2>
 
 <h2> 💻 WorkSpace </h2>
 
