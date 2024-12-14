@@ -35,6 +35,9 @@
 
 <h2> ⭐ Tools</h2>
 
+>![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+>![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 <h2> 💻 WorkSpace </h2>
 
 > <img src="https://img.shields.io/badge/AMD-Ryzen7_9800x3d-0071C5?style=for-the-badge&logo=amd&logoColor=white"> <br>
