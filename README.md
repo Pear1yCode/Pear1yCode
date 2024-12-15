@@ -1,6 +1,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pear1yCode&show_icons=true&theme=ambient_gradient)
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pear1yCode" alt="Top Langs" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pear1yCode" alt="Top Langs" height="195" width:"700" />
 </a>
 
 <h2>✔ Tech Stack</h2>
