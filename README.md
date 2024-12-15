@@ -1,7 +1,6 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=00FF8B&background=000000&center=true&vCenter=true&width=1200&lines=Welcome;Hello" alt="Typing SVG" /></a>
-<a href="https://github.com/Pear1yCode/github-readme-stats"><img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=Pear1yCode" /></a><a href="https://github.com/Pear1yCode/convoychat"><img height=150 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pear1yCode&layout=compact&langs_count=8&card_width=320" /></a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pear1yCode&show_icons=true&theme=ambient_gradient)
+<a href="https://github.com/Pear1yCode/convoychat"><img height=150 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pear1yCode&layout=compact&langs_count=8&card_width=320" /></a>
 
-<br><br><br><br><br><br><br>
 <hr>
 
 <h2>✔ Tech Stack</h2>
