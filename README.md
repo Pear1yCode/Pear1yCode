@@ -1,6 +1,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pear1yCode&show_icons=true&theme=ambient_gradient)
 <a href="https://github.com/Pear1yCode/convoychat"><img height=150 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pear1yCode&layout=compact&langs_count=8&card_width=320" /></a>
-
 <hr>
 
 <h2>✔ Tech Stack</h2>
