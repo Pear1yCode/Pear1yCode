@@ -1,4 +1,4 @@
-<p align="center">Hello! Welcome</p>
+<h1 align="center">Hello! Welcome</h1>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pear1yCode&show_icons=true&theme=ambient_gradient)
 <a href="https://github.com/anuraghazra/github-readme-stats">
