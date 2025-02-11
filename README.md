@@ -1,4 +1,4 @@
-Hello ! Welcome 😊
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+!+Welcome+%F0%9F%98%8A)](https://git.io/typing-svg)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pear1yCode&show_icons=true&theme=ambient_gradient)
 <a href="https://github.com/anuraghazra/github-readme-stats">
