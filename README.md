@@ -1,6 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Hello+!+Welcome+%F0%9F%98%8A)](https://git.io/typing-svg)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pear1yCode&show_icons=true&theme=ambient_gradient)
 <a href="https://github.com/anuraghazra/github-readme-stats">
+[![GitHub Streak](https://streak-stats.demolab.com?user=Pear1yCode)](https://git.io/streak-stats)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pear1yCode" alt="Top Langs" height="195"/>
 </a>
 
@@ -45,5 +46,3 @@
 
 > <img src="https://img.shields.io/badge/AMD-Ryzen7_9800x3d-0071C5?style=for-the-badge&logo=amd&logoColor=white"> <br>
 > <img src="https://img.shields.io/badge/NVIDIA-RTX4080-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Pear1yCode)](https://git.io/streak-stats)
