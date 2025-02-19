@@ -4,7 +4,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pear1yCode" alt="Top Langs" height="195"/>
 </a>
 
-<h2>✔ Tech Stack</h2>
+<h2>✔ Tech Stack (studying)</h2>
   
 > <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html&logoColor=white">
 > <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
