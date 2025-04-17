@@ -44,6 +44,8 @@
 >![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 <h2> 💻 WorkSpace </h2>
-intel 14900KF issue
+
+intel 14900KF -> issue
+
 > <img src="https://img.shields.io/badge/AMD-Ryzen7_9800x3d-0071C5?style=for-the-badge&logo=amd&logoColor=white"> <br>
 > <img src="https://img.shields.io/badge/NVIDIA-RTX4080-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
