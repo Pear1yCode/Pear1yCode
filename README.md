@@ -27,7 +27,7 @@
 >[![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://pearlystars.blogspot.com)
 
 
-<h2> 🌎 Group</h2>
+<h2> 🌎 Group Tool</h2>
 
 >![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 >![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
