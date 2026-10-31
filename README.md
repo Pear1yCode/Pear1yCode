@@ -1,45 +1,72 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=2A830D&center=true&vCenter=true&width=435&lines=Hello+!+Welcome+%F0%9F%98%8A)](https://git.io/typing-svg)
+<div align="center">
 
-<h2>✔ Tech Stack </h2>
-  
-> <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html&logoColor=white">
-> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
-> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
-> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-> <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
->
->![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)
->![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-><img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
->![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-<h2>✈ Contact</h2>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:14532D,100:86EFAC&height=160&section=header" alt="Green wave header" />
 
-><a href="https://google.com" target="_self"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-><a href="https://cofgame.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"></a>
->![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
->[![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://pearlystars.blogspot.com)
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1500&color=4CAF50&center=true&vCenter=true&width=435&height=65&lines=Hello!+Welcome+%F0%9F%98%8A" alt="Hello! Welcome 😊" />
+  </a>
 
+  <p>💻 Code · 📚 Learn · 🎮 Play</p>
 
-<h2> 🌎 Group Tool</h2>
+  <a href="https://cofgame.tistory.com">
+    <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white" alt="Tistory blog" />
+  </a>
+  <a href="https://pearlystars.blogspot.com">
+    <img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blogger blog" />
+  </a>
 
->![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
->![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
->![KakaoTalk](https://img.shields.io/badge/kakaotalk-ffcd00.svg?style=for-the-badge&logo=kakaotalk&logoColor=000000)
->![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
->![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+</div>
 
-<h2> ⭐ Tools</h2>
+## 🌿 Tech Stack
 
->![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
->![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
->![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
->![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
->![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+### Backend
 
-<h2> 💻 WorkSpace </h2>
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,redis,php&theme=dark" alt="Java, Spring, MySQL, Redis, PHP" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Thymeleaf-005C0F?style=for-the-badge&logo=thymeleaf&logoColor=white" alt="Thymeleaf" />
+</p>
 
-> <img src="https://img.shields.io/badge/AMD-Ryzen7_9800x3d-0071C5?style=for-the-badge&logo=amd&logoColor=white"> <br>
-> <img src="https://img.shields.io/badge/NVIDIA-RTX4080-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vue&theme=dark" alt="HTML, CSS, JavaScript, React, Vue" />
+</p>
+
+## ⚙️ Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=idea,vscode,git,ubuntu&theme=dark" alt="IntelliJ IDEA, Visual Studio Code, Git, Ubuntu" />
+</p>
+
+## 🤝 Collaboration
+
+<p>
+  <img src="https://skillicons.dev/icons?i=github,discord,notion,figma&theme=dark" alt="GitHub, Discord, Notion, Figma" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logo=kakaotalk&logoColor=000000" alt="KakaoTalk" />
+</p>
+
+## 🎮 My Setup
+
+<details>
+  <summary><b>사용 중인 PC &amp; Gaming</b></summary>
+  <br />
+  <p>
+    <img src="https://img.shields.io/badge/AMD-Ryzen_7_9800X3D-ED1C24?style=for-the-badge&logo=amd&logoColor=white" alt="AMD Ryzen 7 9800X3D" />
+    <br />
+    <img src="https://img.shields.io/badge/NVIDIA-RTX_4080-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA RTX 4080" />
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" />
+  </p>
+</details>
+
+<br />
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:14532D,100:86EFAC&height=100&section=footer" alt="Green wave footer" />
+</div>
