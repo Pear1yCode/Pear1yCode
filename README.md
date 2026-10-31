@@ -1,5 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=2A830D&center=true&vCenter=true&width=435&lines=Hello+!+Welcome+%F0%9F%98%8A)](https://git.io/typing-svg)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pear1yCode&show_icons=true&theme=ambient_gradient)
 
 <h2>✔ Tech Stack </h2>
   
